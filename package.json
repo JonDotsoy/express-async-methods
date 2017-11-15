@@ -1,6 +1,6 @@
 {
   "name": "@jondotsoy/express-async-methods",
-  "description": "app.getAsync, app.postAsync, app.putAsync",
+  "description": "Allow async functions on Express.IO. Only write the word `Async` after of your methods.",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {},
@@ -14,5 +14,14 @@
   },
   "dependencies": {
     "lodash.noop": "^3.0.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonDotsoy/express-async-methods.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JonDotsoy/express-async-methods/issues"
+  },
+  "homepage": "https://github.com/JonDotsoy/express-async-methods#readme"
 }
